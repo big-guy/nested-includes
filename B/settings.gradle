@@ -1,0 +1,5 @@
+rootProject.name = "B"
+
+includeBuild("C")
+
+include("utilities")
